@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yanayliroz
 - 👀 I’m interested in Automation and Networking
-- 🌱 I’m currently learning Network programability
+- 🌱 I’m currently learning Infrastructure as Code
 - 💞️ I’m looking to collaborate on a lot
 - 📫 How to reach me linkedin - https://www.linkedin.com/in/yanay-liroz/
 
